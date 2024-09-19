@@ -1,3 +1,3 @@
 # lt2024
 
-sayonara LT会 2024 の配布コード．
+sayonara LT会 2024 での配布コード．
